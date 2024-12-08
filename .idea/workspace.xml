@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d839d89-dff8-4edb-bf4e-fce93e52e1f4" name="Changes" comment="15 Nov 2024 task and exercise">
-      <change afterPath="$PROJECT_DIR$/src/ex_171024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_171024/test_task171024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_171024/testex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_171024/testex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_171024/testex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_171024/testex5_parallel.py" afterDir="false" />
+    <list default="true" id="6d839d89-dff8-4edb-bf4e-fce93e52e1f4" name="Changes" comment="17 Oct 2024 task and exercise">
+      <change afterPath="$PROJECT_DIR$/src/ex_191024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_191024/test_ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_191024/test_ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_191024/test_ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_191024/test_task_191024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +53,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests for test_ex1.test_ex.executor": "Run",
+    "Python tests.Python tests for test_ex6.test_verify_invalid_username_password.executor": "Run",
+    "Python tests.Python tests for test_ex7.test_anchorlink_tc.executor": "Run",
+    "Python tests.Python tests for test_ex8.testfindallbuttonswithlink.executor": "Run",
     "Python tests.Python tests for test_task1510224.test_Task1.executor": "Run",
     "Python tests.Python tests for test_task1510224.test_task1.executor": "Run",
     "Python tests.Python tests for test_task171024.test_task17oct.executor": "Run",
+    "Python tests.Python tests for test_task_191024.test_awesomeqa_registration_page.executor": "Run",
     "Python tests.Python tests for testex2.test_pagesource.executor": "Run",
     "Python tests.Python tests for testex3.test_chrome_options.executor": "Run",
     "Python tests.Python tests for testex4.test_exfindelementbyid.executor": "Run",
@@ -64,19 +67,49 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_task171024.test_task17oct">
-    <configuration name="Python tests for test_ex1.test_ex" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_task_191024.test_awesomeqa_registration_page">
+    <configuration name="Python tests for test_ex6.test_verify_invalid_username_password" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_151024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_191024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_ex1.test_ex&quot;" />
+      <option name="_new_target" value="&quot;test_ex6.test_verify_invalid_username_password&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_ex7.test_anchorlink_tc" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_191024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ex7.test_anchorlink_tc&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_ex8.testfindallbuttonswithlink" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_191024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_ex8.testfindallbuttonswithlink&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -95,58 +128,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for testex2.test_pagesource" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_task_191024.test_awesomeqa_registration_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_171024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_191024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testex2.test_pagesource&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for testex3.test_chrome_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_171024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testex3.test_chrome_options&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for testex4.test_exfindelementbyid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_171024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testex4.test_exfindelementbyid&quot;" />
+      <option name="_new_target" value="&quot;test_task_191024.test_awesomeqa_registration_page&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_task_191024.test_awesomeqa_registration_page" />
+        <item itemvalue="Python tests.Python tests for test_ex8.testfindallbuttonswithlink" />
+        <item itemvalue="Python tests.Python tests for test_ex7.test_anchorlink_tc" />
+        <item itemvalue="Python tests.Python tests for test_ex6.test_verify_invalid_username_password" />
         <item itemvalue="Python tests.Python tests for test_task171024.test_task17oct" />
-        <item itemvalue="Python tests.Python tests for testex4.test_exfindelementbyid" />
-        <item itemvalue="Python tests.Python tests for testex3.test_chrome_options" />
-        <item itemvalue="Python tests.Python tests for testex2.test_pagesource" />
-        <item itemvalue="Python tests.Python tests for test_ex1.test_ex" />
       </list>
     </recent_temporary>
   </component>
@@ -174,11 +177,20 @@
       <option name="project" value="LOCAL" />
       <updated>1732622148574</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="17 Oct 2024 task and exercise">
+      <option name="closed" value="true" />
+      <created>1733407246911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733407246911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="15 Nov 2024 task and exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="15 Nov 2024 task and exercise" />
+    <MESSAGE value="17 Oct 2024 task and exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="17 Oct 2024 task and exercise" />
   </component>
 </project>
